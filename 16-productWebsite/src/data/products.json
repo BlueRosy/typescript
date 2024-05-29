@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "imgSrc": "/src/assets/healthfood1.jpg",
+        "price": 39.99,
+        "title": "Bloom Nutrition Superfood Greens Powder"
+    },
+    {
+        "id": "2",
+        "imgSrc": "/src/assets/healthfood2.jpg",
+        "price": 12.88,
+        "title": "Himalayan Salt Scrub Face Foot & Body Exfoliator"
+    },
+    {
+        "id": "3",
+        "imgSrc": "/src/assets/healthfood3.jpg",
+        "price": 14.99,
+        "title": "Burt's Bees Teacher Appreciation & Graduation Gifts Ideas"
+    },
+    {
+        "id": "4",
+        "imgSrc": "/src/assets/healthfood4.jpg",
+        "price": 20.00,
+        "title": "Beauty of Joseon Glow Replenishing Rice Milk Face Toner for Dry Dull Skin"
+    },
+    {
+        "id": "5",
+        "imgSrc": "/src/assets/healthfood5.jpg",
+        "price": 56.00,
+        "title": "HERBIVORE Bakuchiol Retinol Alternative - Bakuchiol + Peptides, Smooths Skin, Reduces Fine Lines, Wrinkles & Puffiness, Plant-based, Vegan, Cruelty-free"
+    },
+    {
+        "id": "6",
+        "imgSrc": "/src/assets/healthfood6.jpg",
+        "price": 53.00,
+        "title": "Neal's Yard Remedies Rejuvenating Frankincense Daily Light Hydrating Cream For All Skin Types - Moisturises & Smooths, 50g"
+    },
+    {
+        "id": "7",
+        "imgSrc": "/src/assets/healthfood7.jpg",
+        "price": 20.00,
+        "title": "Beauty of Joseon Ginseng Cleansing Oil Waterproof Makeup Remover for Sensitive, Acne-Prone Facial Skin. Korean Skin Care for Men and Women, 210ml, 7.1 fl.oz"
+    },
+    {
+        "id": "8",
+        "imgSrc": "/src/assets/healthfood8.jpg",
+        "price": 39.00,
+        "title": "Youth To The People Superfood Facial Cleanser - Kale and Green Tea Cleanser - Gentle Face Wash, Makeup Remover + Pore Minimizer for All Skin Types - Vegan"
+    }
+]
